@@ -1,0 +1,162 @@
+[
+    {
+        "name": "moghadam",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "moghadam",
+        "img": "https://i.ibb.co/SmD5wD8/sam-moghadam-khamseh-i3-A-se17-VAg-unsplash.jpg",
+        "availability": true
+    },
+    {
+        "name": "red soup",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "red soup",
+        "img": "https://i.ibb.co/T8pwsCj/traditional-ukrainian-russian-borscht-red-soup-bowl-banner-top-view.jpg",
+        "availability": false
+    },
+    {
+        "name": "grilled chicken",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "grilled chicken",
+        "img": "https://i.ibb.co/WHtxzHN/grilled-chicken-breast-served-black-slate.jpg",
+        "availability": true
+    },
+    {
+        "name": "barbeque chicken",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "barbeque chicken",
+        "img": "https://i.ibb.co/TWkQZ26/preparing-raw-barbeque-chicken-cooking.jpg",
+        "availability": true
+    },
+    {
+        "name": "baked chicken",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "baked chicken",
+        "img": "https://i.ibb.co/bdBTw1b/tasty-baked-chicken-legs-with-spices-pan.jpg",
+        "availability": false
+    },
+    {
+        "name": "icecream",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "icecream",
+        "img": "https://i.ibb.co/xf72w6c/strawberry-icecream.jpg",
+        "availability": true
+    },
+    {
+        "name": "shawarma",
+        "price": 1234,
+        "type": "Side dish",
+        "description": "shawarma",
+        "img": "https://i.ibb.co/bQqK4gB/side-view-shawarma-with-fried-potatoes-board-cookware.jpg",
+        "availability": true
+    },
+    {
+        "name": "pizza",
+        "price": 1234,
+        "type": "Evening meal",
+        "description": "pizza",
+        "img": "https://i.ibb.co/XVJ8Jd4/side-view-pizza-with-slices-bell-pepper-pizza-slices-flour-board-cookware.jpg",
+        "availability": true
+    },
+    {
+        "name": "sandwich",
+        "price": 1234,
+        "type": "Evening meal",
+        "description": "sandwich",
+        "img": "https://i.ibb.co/drs9ggt/side-view-club-sandwich-with-salted-cucumbers-lemon-olives-round-white-plate.jpg",
+        "availability": true
+    },
+    {
+        "name": "cheeseburger",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "cheeseburger",
+        "img": "https://i.ibb.co/4NfmFdc/close-up-cheeseburger-counter.jpg",
+        "availability": true
+    },
+    {
+        "name": "general-presentation",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "general-presentation",
+        "img": "https://i.ibb.co/gdqw4x6/wepik-creative-art-history-general-presentation-202266-112949.jpg",
+        "availability": false
+    },
+    {
+        "name": "pasta",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "pasta",
+        "img": "https://i.ibb.co/rHvjmVj/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg",
+        "availability": true
+    },
+    {
+        "name": "grilled-chicken",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "grilled-chicken",
+        "img": "https://i.ibb.co/mBT17hw/grilled-chicken.jpg",
+        "availability": true
+    },
+    {
+        "name": "fried-chicken",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "fried-chicken",
+        "img": "https://i.ibb.co/tbNp8nj/delicious-fried-chicken-plate.jpg",
+        "availability": true
+    },
+    {
+        "name": "vegetables",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "vegetables",
+        "img": "https://i.ibb.co/Jc3yqJM/vegetables-set-left-black-slate.jpg",
+        "availability": true
+    },
+    {
+        "name": "fried-chicken",
+        "price": 1234,
+        "type": "breakfast",
+        "description": "fried-chicken",
+        "img": "https://i.ibb.co/8PzQpz7/delicious-fried-chicken-plate-1.jpg",
+        "availability": true
+    },
+    {
+        "name": "sausage",
+        "price": 1234,
+        "type": "lunch",
+        "description": "sausage",
+        "img": "https://i.ibb.co/rvVJz83/sausage-fried-rice-with-tomatoes-carrots-shiitake-mushrooms-plate.jpg",
+        "availability": true
+    },
+    {
+        "name": "steak",
+        "price": 1234,
+        "type": "dinner",
+        "description": "steak",
+        "img": "https://i.ibb.co/wgTcc7V/grilled-steak-vegetables.jpg",
+        "availability": true
+    },
+    {
+        "name": "shrimps",
+        "price": 1234,
+        "type": "dinner",
+        "description": "shrimps",
+        "img": "https://i.ibb.co/cJPkZLc/allsorts-from-sea-combs-orange-sauce-crackling-tiger-shrimps.jpg",
+        "availability": true
+    },
+    {
+        "name": "meat fire",
+        "price": 1234,
+        "type": "lunch",
+        "description": "meat fire",
+        "img": "https://i.ibb.co/yQmd8gB/fresh-meat-prepared-fire.jpg",
+        "availability": true
+    }
+]
