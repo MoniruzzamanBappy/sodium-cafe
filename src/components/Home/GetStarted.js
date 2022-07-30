@@ -15,7 +15,7 @@ const GetStarted = () => {
           />
           <div>
             <h1 className="text-5xl hidden lg:block font-bold">
-              Sodium Cafe and Restaurants
+              Sodium Cafe
             </h1>
             <p className="py-6 text-justify">
               Take advantage of our restaurant environment and foods when you
