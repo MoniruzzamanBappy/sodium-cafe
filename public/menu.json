@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Appetizer",
+    "items": [
+      {
+        "name": "01. French Fry (100gm)",
+        "price": "120"
+      },
+      {
+        "name": "02. Chinese Wonton (6pcs)",
+        "price": "160"
+      },
+      {
+        "name": "03. Thai Wonton (6pcs)",
+        "price": "230"
+      },
+      {
+        "name": "04. Chinese Spring Roll (8pcs)",
+        "price": "260"
+      },
+      {
+        "name": "05. Fish Finger (6pcs)",
+        "price": "299"
+      },
+      {
+        "name": "06. Calamari Fry (Chef Special)",
+        "price": "299"
+      },
+      {
+        "name": "07. Prawn Tempura (6pcs)",
+        "price": "320"
+      },
+      {
+        "name": "08. Golden Fried Prawn (6pcs)",
+        "price": "320"
+      },
+      {
+        "name": "09. Sweet B.B.Q Nachos",
+        "price": "220"
+      },
+      {
+        "name": "10. Chef Special Nachos",
+        "price": "249"
+      }
+    ]
+  },
+  {
+    "name": "Soup",
+    "items": [
+      {
+        "name": "01. Thai Soup (1.1/1.3)",
+        "price": "130/320"
+      },
+      {
+        "name": "02. Thai Clear Soup (1.3)",
+        "price": "350"
+      },
+      {
+        "name": "03. Corn Soup (1.1/1.3)",
+        "price": "120/300"
+      },
+      {
+        "name": "04. Tomean Soup (Chef Special 1.3)",
+        "price": "450"
+      },
+      {
+        "name": "05. Vegetable Soup (1.1/1.3)",
+        "price": "100/270"
+      },
+      {
+        "name": "06. Cream Of Mushroom (1.1)",
+        "price": "220"
+      },
+      {
+        "name": "07. Hot & Sour Soup (1.1/1.3)",
+        "price": "120/330"
+      }
+    ]
+  }
+]
